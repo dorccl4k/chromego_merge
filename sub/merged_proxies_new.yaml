@@ -35,11 +35,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_02
   type: vmess
   server: 104.26.0.56
@@ -50,11 +50,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: Canada_Ottawa_vmess_03
   type: vmess
   server: 23.227.38.3
@@ -65,11 +65,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_04
   type: vmess
   server: 104.19.38.12
@@ -80,11 +80,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: United States_San Francisco_vmess_05
   type: vmess
   server: 172.64.175.88
@@ -95,11 +95,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: United States_None_vmess_06
   type: vmess
   server: 172.64.99.22
@@ -110,11 +110,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_07
   type: vmess
   server: 104.19.21.71
@@ -125,11 +125,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: United States_San Francisco_vmess_08
   type: vmess
   server: 172.64.175.213
@@ -140,11 +140,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: United States_None_vmess_09
   type: vmess
   server: 172.64.198.249
@@ -155,11 +155,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: United States_None_vmess_010
   type: vmess
   server: 172.64.194.76
@@ -170,11 +170,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_011
   type: vmess
   server: 104.19.21.63
@@ -185,11 +185,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_012
   type: vmess
   server: 104.19.123.11
@@ -200,11 +200,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_013
   type: vmess
   server: 104.18.57.111
@@ -215,11 +215,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_014
   type: vmess
   server: 104.19.21.230
@@ -230,11 +230,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_015
   type: vmess
   server: 104.19.21.230
@@ -245,11 +245,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_016
   type: vmess
   server: 104.19.46.103
@@ -260,11 +260,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_017
   type: vmess
   server: 104.19.32.216
@@ -275,11 +275,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_018
   type: vmess
   server: 104.19.47.65
@@ -290,11 +290,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_019
   type: vmess
   server: 104.19.58.175
@@ -305,11 +305,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_020
   type: vmess
   server: 104.19.55.49
@@ -320,11 +320,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_021
   type: vmess
   server: 104.19.42.49
@@ -335,11 +335,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_022
   type: vmess
   server: 104.17.106.151
@@ -350,11 +350,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_023
   type: vmess
   server: 104.19.57.4
@@ -365,11 +365,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_024
   type: vmess
   server: 104.19.59.89
@@ -380,11 +380,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_025
   type: vmess
   server: 104.20.17.186
@@ -395,11 +395,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_026
   type: vmess
   server: 104.20.25.146
@@ -410,11 +410,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_027
   type: vmess
   server: 104.20.25.146
@@ -425,11 +425,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_028
   type: vmess
   server: 104.26.7.132
@@ -440,11 +440,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_029
   type: vmess
   server: 104.20.25.146
@@ -455,11 +455,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_030
   type: vmess
   server: 104.20.17.186
@@ -470,11 +470,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: United States_None_vmess_031
   type: vmess
   server: 172.67.74.112
@@ -485,11 +485,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip11.freegradely.xyz
+  servername: ip11-2.freegradely.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip11.freegradely.xyz
+      Host: ip11-2.freegradely.xyz
 - name: None_None_vmess_11
   type: vmess
   server: 104.19.38.18
@@ -1267,446 +1267,6 @@ proxies:
   reduce-rtt: true
   udp-relay-mode: native
   congestion-controller: bbr
-- cipher: aes-128-cfb
-  name: The Netherlands_Rozendaal_ss_111
-  password: shadowsocks
-  port: 443
-  server: 109.201.152.181
-  type: ss
-- cipher: aes-256-gcm
-  name: United States_Dallas_ss_112
-  password: faBAoD54k87UJG7
-  port: 2375
-  server: 38.68.134.9
-  type: ss
-- cipher: aes-256-gcm
-  name: United States_Dallas_ss_113
-  password: XKFKl2rULjIp74
-  port: 8009
-  server: 38.68.134.9
-  type: ss
-- cipher: aes-128-cfb
-  name: The Netherlands_Rozendaal_ss_114
-  password: shadowsocks
-  port: 443
-  server: sha.majidcttls.ggff.net
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  country: JP
-  name: Japan_Tokyo_ssr_115
-  obfs: tls1.2_ticket_auth
-  password: eAokbaDN6
-  port: 8081
-  protocol: origin
-  server: jp-am48-6.eqnode.net
-  type: ssr
-- cipher: aes-256-cfb
-  country: KR
-  name: South Korea_Incheon_ss_116
-  password: amazonskr05
-  port: 443
-  server: 54.180.251.250
-  type: ss
-- alterId: 1
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: None_None_vmess_117
-  network: ws
-  port: 443
-  server: hms07.xfixedfloat.cfd
-  servername: afrhms07.xfixedfloat.cfd
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: a1655f51-1e20-4a92-8a11-b7ca30a7a353
-  ws-opts:
-    headers:
-      HOST: afrhms07.xfixedfloat.cfd
-    path: /linkws
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: Kazakhstan_Almaty_vmess_118
-  network: tcp
-  port: 2083
-  server: kz-v2ray.ipracevpn.com
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 4f97bdbc-eaeb-4bf9-ad7f-faad44c6f6bb
-- country: US
-  name: South Korea_Incheon_trojan_119
-  password: 2155145a-b1b5-443a-8977-670f6bd10f02
-  port: 50001
-  server: bgroup.node2.t.nodelist-gfwairport2.top
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- cipher: aes-128-gcm
-  name: United States_None_ss_1110
-  password: a-wym4ovY4Yw
-  plugin: v2ray-plugin
-  plugin-opts:
-    host: a4.wagaga.online
-    mode: websocket
-    mux: true
-    path: ''
-    skip-cert-verify: false
-    tls: true
-  port: 443
-  server: 172.67.114.125
-  tfo: false
-  type: ss
-- alterId: 0
-  cipher: auto
-  name: China_None_vmess_1111
-  port: 32008
-  server: alm2.the-galgo.top
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 3880784d-b3c1-483a-ac90-cc6633d7d4a3
-- alterId: 64
-  cipher: auto
-  name: China_None_vmess_1112
-  port: 51193
-  server: 183.238.202.173
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 64
-  cipher: auto
-  name: China_None_vmess_1113
-  port: 50004
-  server: 112.132.212.19
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  name: China_None_trojan_1114
-  password: gkviEOYc
-  port: 4027
-  server: 183.232.139.22
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- cipher: aes-256-cfb
-  name: China_None_ss_1115
-  password: hGkQ6915tD
-  port: 15001
-  server: 59.56.77.178
-  tfo: false
-  type: ss
-- name: China_None_trojan_1116
-  password: ee84695e-978f-40cf-8590-5c36a19de984
-  port: 21876
-  server: 103twai.aixunx168.top
-  skip-cert-verify: false
-  sni: aixunx168.top
-  type: trojan
-- name: China_None_trojan_1117
-  password: RmdXQRXg
-  port: 23621
-  server: 223.113.54.154
-  skip-cert-verify: true
-  type: trojan
-- alterId: 0
-  cipher: auto
-  name: None_None_vmess_1118
-  network: ws
-  port: '443'
-  server: lin0502.hwcar.sbs
-  servername: linja05.hwcar.sbs
-  skip-cert-verify: false
-  tfo: false
-  tls: true
-  type: vmess
-  uuid: 39cec18f-a439-427c-9a4e-aeb6fcdf6f53
-  ws-opts:
-    headers:
-      Host: linja05.hwcar.sbs
-    path: /linkws
-- alterId: 0
-  cipher: auto
-  name: None_None_vmess_1119
-  network: ws
-  port: '2052'
-  server: cfcdn3.sanfencdn9.com
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: c750f7b8-1080-4881-9d4f-7e74b2c56660
-  ws-opts:
-    headers:
-      Host: wtywwcrzjp5.yofnhkfc.xyz
-    path: /video/9TfVEyku
-- alterId: 0
-  cipher: auto
-  name: China_Haikou_vmess_1120
-  network: ws
-  port: 46011
-  server: mmjp11.micloud.buzz
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: e0affd30-6517-4f32-a2bd-71faab70b40a
-  ws-opts:
-    headers:
-      Host: mmjp11.micloud.buzz
-    path: /zh-cn
-- name: China_None_trojan_1121
-  password: 32e6cda8-b070-45b6-b7ae-4820c918bdfa
-  port: 30881
-  server: 107jpai.aixunx168.top
-  skip-cert-verify: false
-  sni: aixunx168.top
-  type: trojan
-- cipher: aes-256-cfb
-  name: China_None_ss_1122
-  password: hGkQ6915tD
-  port: 15084
-  server: 59.56.77.178
-  tfo: false
-  type: ss
-- alterId: 0
-  cipher: auto
-  name: China_Haikou_vmess_1123
-  network: ws
-  port: 46016
-  server: mmsg16.micloud.buzz
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: e0affd30-6517-4f32-a2bd-71faab70b40a
-  ws-opts:
-    headers:
-      Host: mmsg16.micloud.buzz
-    path: /zh-cn
-- alterId: 0
-  cipher: auto
-  name: China_Guangzhou_vmess_1124
-  network: ws
-  port: '16928'
-  server: 120.232.240.56
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 5f6b3c3f-b0a8-33f5-95c6-371f8c6af973
-  ws-opts:
-    headers:
-      Host: '%7B%22Host%22:%22193.25.215.160%22%7D'
-    path: /v2ray
-- cipher: chacha20-ietf-poly1305
-  name: China_None_ss_1125
-  password: 155be64c-75ec-4a44-a1a3-344b10676ef6
-  port: 50106
-  server: free-big.themars.top
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: United States_None_ss_1126
-  password: 56INZqMWGt0o8Rv4
-  port: 1026
-  server: 45.61.57.7
-  tfo: false
-  type: ss
-- name: China_None_trojan_1127
-  password: RmdXQRXg
-  port: 27119
-  server: 223.113.54.154
-  skip-cert-verify: true
-  type: trojan
-- name: China_None_trojan_1128
-  password: RmdXQRXg
-  port: 45365
-  server: 223.113.54.154
-  skip-cert-verify: true
-  type: trojan
-- alterId: 0
-  cipher: auto
-  name: None_None_vmess_1129
-  network: ws
-  port: '8880'
-  server: cfcdn1.sanfencdn9.com
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: c750f7b8-1080-4881-9d4f-7e74b2c56660
-  ws-opts:
-    headers:
-      Host: us6gzxQRrE4.fzbqfrse.xyz
-    path: /video/bYdJ7Vc2We
-- cipher: aes-256-cfb
-  name: United States_Boardman_ss_1130
-  password: amazonskr05
-  port: 443
-  server: 34.222.10.233
-  tfo: false
-  type: ss
-- cipher: aes-256-cfb
-  name: Japan_Tokyo_ss_1131
-  password: amazonskr05
-  port: 443
-  server: 54.199.71.126
-  tfo: false
-  type: ss
-- cipher: aes-256-cfb
-  name: South Korea_Incheon_ss_1132
-  password: amazonskr05
-  port: 443
-  server: 43.203.209.219
-  tfo: false
-  type: ss
-- cipher: aes-256-cfb
-  name: China_None_ss_1133
-  password: hGkQ6915tD
-  port: 15083
-  server: 59.56.77.178
-  tfo: false
-  type: ss
-- cipher: aes-256-cfb
-  name: China_None_ss_1134
-  password: hGkQ6915tD
-  port: 15111
-  server: 59.56.77.178
-  tfo: false
-  type: ss
-- alterId: 0
-  cipher: auto
-  name: China_None_vmess_1135
-  network: tcp
-  port: '32008'
-  server: alm2.the-galgo.top
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 3880784d-b3c1-483a-ac90-cc6633d7d4a3
-- alterId: 64
-  cipher: auto
-  name: China_None_vmess_1136
-  network: tcp
-  port: '51193'
-  server: 183.238.202.173
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 64
-  cipher: auto
-  name: China_None_vmess_1137
-  network: tcp
-  port: '50004'
-  server: 112.132.212.19
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  name: China_Haikou_vmess_1138
-  network: ws
-  port: '46011'
-  server: mmjp11.micloud.buzz
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e0affd30-6517-4f32-a2bd-71faab70b40a
-  ws-opts:
-    headers:
-      Host: ''
-    path: /zh-cn
-- alterId: 0
-  cipher: auto
-  name: China_Haikou_vmess_1139
-  network: ws
-  port: '46016'
-  server: mmsg16.micloud.buzz
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e0affd30-6517-4f32-a2bd-71faab70b40a
-  ws-opts:
-    headers:
-      Host: ''
-    path: /zh-cn
-- alterId: 0
-  cipher: auto
-  name: China_None_trojan_1140
-  password: gkviEOYc
-  port: 50611
-  server: 183.232.139.22
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- name: United Kingdom_None_trojan_1141
-  network: ws
-  password: TeleGram-VPNCTVIP
-  port: 443
-  server: 164.38.155.61
-  skip-cert-verify: true
-  sni: trojan-ws.vpnctvip.dns-dynamic.NeT
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: trojan-ws.vpnctvip.dns-dynamic.NeT
-    path: /proxyIP=proxyip.us.fxxk.dedyn.io
-- name: South Korea_Eunpyeong-gu_trojan_1142
-  network: ws
-  password: moist
-  port: 27335
-  server: 116.47.10.236
-  skip-cert-verify: true
-  sni: trojan.freenods.sbs
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: trojan.freenods.sbs
-    path: /?ed=2560
-- name: South Korea_Eunpyeong-gu_trojan_1143
-  network: ws
-  password: moist
-  port: 27335
-  server: 116.47.10.236
-  skip-cert-verify: true
-  sni: trojan.freenods.sbs
-  type: trojan
-  udp: true
-  ws-opts:
-    path: /?ed=2560
-- name: South Korea_Eunpyeong-gu_trojan_1144
-  network: ws
-  password: moist
-  port: 27335
-  server: 116.47.10.236
-  skip-cert-verify: true
-  sni: trojan.freenods.sbs
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: trojan.freenods.sbs
-    path: /
 - name: France_None_hy_0
   type: hysteria
   server: 62.210.243.131
@@ -1883,50 +1443,6 @@ proxy-groups:
   - None_None_vmess_74
   - United States_Kansas City_vless_81
   - United States_Kansas City_tuic_91
-  - The Netherlands_Rozendaal_ss_111
-  - United States_Dallas_ss_112
-  - United States_Dallas_ss_113
-  - The Netherlands_Rozendaal_ss_114
-  - Japan_Tokyo_ssr_115
-  - South Korea_Incheon_ss_116
-  - None_None_vmess_117
-  - Kazakhstan_Almaty_vmess_118
-  - South Korea_Incheon_trojan_119
-  - United States_None_ss_1110
-  - China_None_vmess_1111
-  - China_None_vmess_1112
-  - China_None_vmess_1113
-  - China_None_trojan_1114
-  - China_None_ss_1115
-  - China_None_trojan_1116
-  - China_None_trojan_1117
-  - None_None_vmess_1118
-  - None_None_vmess_1119
-  - China_Haikou_vmess_1120
-  - China_None_trojan_1121
-  - China_None_ss_1122
-  - China_Haikou_vmess_1123
-  - China_Guangzhou_vmess_1124
-  - China_None_ss_1125
-  - United States_None_ss_1126
-  - China_None_trojan_1127
-  - China_None_trojan_1128
-  - None_None_vmess_1129
-  - United States_Boardman_ss_1130
-  - Japan_Tokyo_ss_1131
-  - South Korea_Incheon_ss_1132
-  - China_None_ss_1133
-  - China_None_ss_1134
-  - China_None_vmess_1135
-  - China_None_vmess_1136
-  - China_None_vmess_1137
-  - China_Haikou_vmess_1138
-  - China_Haikou_vmess_1139
-  - China_None_trojan_1140
-  - United Kingdom_None_trojan_1141
-  - South Korea_Eunpyeong-gu_trojan_1142
-  - South Korea_Eunpyeong-gu_trojan_1143
-  - South Korea_Eunpyeong-gu_trojan_1144
   - France_None_hy_0
   - France_None_hy_1
   - France_None_hy_2
@@ -2023,50 +1539,6 @@ proxy-groups:
   - None_None_vmess_74
   - United States_Kansas City_vless_81
   - United States_Kansas City_tuic_91
-  - The Netherlands_Rozendaal_ss_111
-  - United States_Dallas_ss_112
-  - United States_Dallas_ss_113
-  - The Netherlands_Rozendaal_ss_114
-  - Japan_Tokyo_ssr_115
-  - South Korea_Incheon_ss_116
-  - None_None_vmess_117
-  - Kazakhstan_Almaty_vmess_118
-  - South Korea_Incheon_trojan_119
-  - United States_None_ss_1110
-  - China_None_vmess_1111
-  - China_None_vmess_1112
-  - China_None_vmess_1113
-  - China_None_trojan_1114
-  - China_None_ss_1115
-  - China_None_trojan_1116
-  - China_None_trojan_1117
-  - None_None_vmess_1118
-  - None_None_vmess_1119
-  - China_Haikou_vmess_1120
-  - China_None_trojan_1121
-  - China_None_ss_1122
-  - China_Haikou_vmess_1123
-  - China_Guangzhou_vmess_1124
-  - China_None_ss_1125
-  - United States_None_ss_1126
-  - China_None_trojan_1127
-  - China_None_trojan_1128
-  - None_None_vmess_1129
-  - United States_Boardman_ss_1130
-  - Japan_Tokyo_ss_1131
-  - South Korea_Incheon_ss_1132
-  - China_None_ss_1133
-  - China_None_ss_1134
-  - China_None_vmess_1135
-  - China_None_vmess_1136
-  - China_None_vmess_1137
-  - China_Haikou_vmess_1138
-  - China_Haikou_vmess_1139
-  - China_None_trojan_1140
-  - United Kingdom_None_trojan_1141
-  - South Korea_Eunpyeong-gu_trojan_1142
-  - South Korea_Eunpyeong-gu_trojan_1143
-  - South Korea_Eunpyeong-gu_trojan_1144
   - France_None_hy_0
   - France_None_hy_1
   - France_None_hy_2
