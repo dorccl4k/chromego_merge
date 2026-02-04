@@ -33,7 +33,7 @@ proxies:
   type: ss
 - alterId: 2
   cipher: auto
-  name: Hong Kong_Tuen Mun_vmess_102
+  name: Hong Kong_Central_vmess_102
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
@@ -137,7 +137,7 @@ proxies:
     path: /
 - alterId: 2
   cipher: auto
-  name: Hong Kong_Tuen Mun_vmess_1014
+  name: Hong Kong_Central_vmess_1014
   network: tcp
   port: '30807'
   server: v10.hdacd.com
@@ -555,7 +555,7 @@ proxies:
   type: ss
 - alterId: 2
   cipher: auto
-  name: Hong Kong_Tuen Mun_vmess_1149
+  name: Hong Kong_Central_vmess_1149
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
@@ -659,7 +659,7 @@ proxies:
     path: /
 - alterId: 2
   cipher: auto
-  name: Hong Kong_Tuen Mun_vmess_1161
+  name: Hong Kong_Central_vmess_1161
   network: tcp
   port: '30807'
   server: v10.hdacd.com
@@ -682,7 +682,7 @@ proxy-groups:
   - 自动选择
   - DIRECT
   - United States_None_ss_101
-  - Hong Kong_Tuen Mun_vmess_102
+  - Hong Kong_Central_vmess_102
   - Hong Kong_Central_trojan_103
   - Japan_Tokyo_trojan_104
   - Hong Kong_Central_trojan_105
@@ -694,7 +694,7 @@ proxy-groups:
   - The Netherlands_Meppel_trojan_1011
   - Japan_Tokyo_trojan_1012
   - Hong Kong_Central_vmess_1013
-  - Hong Kong_Tuen Mun_vmess_1014
+  - Hong Kong_Central_vmess_1014
   - India_Mumbai_trojan_1015
   - Unknown_vmess_111
   - Unknown_vmess_112
@@ -744,7 +744,7 @@ proxy-groups:
   - China_None_vmess_1146
   - China_None_vmess_1147
   - United States_None_ss_1148
-  - Hong Kong_Tuen Mun_vmess_1149
+  - Hong Kong_Central_vmess_1149
   - Hong Kong_Central_trojan_1150
   - Japan_Tokyo_trojan_1151
   - Hong Kong_Central_trojan_1152
@@ -756,7 +756,7 @@ proxy-groups:
   - The Netherlands_Meppel_trojan_1158
   - Japan_Tokyo_trojan_1159
   - Hong Kong_Central_vmess_1160
-  - Hong Kong_Tuen Mun_vmess_1161
+  - Hong Kong_Central_vmess_1161
   - India_Mumbai_trojan_1162
 - name: 自动选择
   type: url-test
@@ -765,7 +765,7 @@ proxy-groups:
   tolerance: 50
   proxies:
   - United States_None_ss_101
-  - Hong Kong_Tuen Mun_vmess_102
+  - Hong Kong_Central_vmess_102
   - Hong Kong_Central_trojan_103
   - Japan_Tokyo_trojan_104
   - Hong Kong_Central_trojan_105
@@ -777,7 +777,7 @@ proxy-groups:
   - The Netherlands_Meppel_trojan_1011
   - Japan_Tokyo_trojan_1012
   - Hong Kong_Central_vmess_1013
-  - Hong Kong_Tuen Mun_vmess_1014
+  - Hong Kong_Central_vmess_1014
   - India_Mumbai_trojan_1015
   - Unknown_vmess_111
   - Unknown_vmess_112
@@ -827,7 +827,7 @@ proxy-groups:
   - China_None_vmess_1146
   - China_None_vmess_1147
   - United States_None_ss_1148
-  - Hong Kong_Tuen Mun_vmess_1149
+  - Hong Kong_Central_vmess_1149
   - Hong Kong_Central_trojan_1150
   - Japan_Tokyo_trojan_1151
   - Hong Kong_Central_trojan_1152
@@ -839,7 +839,7 @@ proxy-groups:
   - The Netherlands_Meppel_trojan_1158
   - Japan_Tokyo_trojan_1159
   - Hong Kong_Central_vmess_1160
-  - Hong Kong_Tuen Mun_vmess_1161
+  - Hong Kong_Central_vmess_1161
   - India_Mumbai_trojan_1162
 rules:
 - DOMAIN,clash.razord.top,DIRECT
