@@ -311,7 +311,7 @@ proxies:
   skip-cert-verify: true
   sni: t.me%25252Fripaojiedian
   type: trojan
-- name: United States_San Francisco_trojan_1120
+- name: None_None_trojan_1120
   network: ws
   password: 056b39f5-ffb3-4145-8f75-2ffdeb53cb48
   port: 2087
@@ -342,7 +342,7 @@ proxies:
   skip-cert-verify: true
   sni: green2.cdntencentmusic.com
   type: trojan
-- name: None_None_trojan_1123
+- name: United States_None_trojan_1123
   password: 14f7a5c0-e8ae-40a7-884c-41555730e3b6
   port: 31101
   server: green2.cdntencentmusic.com
@@ -356,14 +356,14 @@ proxies:
   skip-cert-verify: true
   sni: green2.cdntencentmusic.com
   type: trojan
-- name: United States_None_trojan_1125
+- name: None_None_trojan_1125
   password: 80429ec5-265a-4a99-b0bb-ddc9e75411c0
   port: 31102
   server: green2.cdntencentmusic.com
   skip-cert-verify: true
   sni: green2.cdntencentmusic.com
   type: trojan
-- name: None_None_trojan_1126
+- name: United States_None_trojan_1126
   password: 21f085a7-ace6-495e-b550-281c8bfde899
   port: 31102
   server: green2.cdntencentmusic.com
@@ -377,21 +377,21 @@ proxies:
   skip-cert-verify: true
   sni: green2.cdntencentmusic.com
   type: trojan
-- name: None_None_trojan_1128
+- name: United States_None_trojan_1128
   password: 397b6abf-c044-4fa7-9b70-269d9ada828d
   port: 31102
   server: green2.cdntencentmusic.com
   skip-cert-verify: true
   sni: green2.cdntencentmusic.com
   type: trojan
-- name: United Kingdom_None_trojan_1129
+- name: China_None_trojan_1129
   password: c22516d4-a4a2-4c62-917f-b73437d5827c
   port: 41275
   server: xiaozhu1.kkieo555.cn
   skip-cert-verify: true
   sni: xiaozhu1.kkieo555.cn
   type: trojan
-- name: United Kingdom_None_trojan_1130
+- name: China_None_trojan_1130
   password: c30d5cba-aa70-4588-86b5-4cc897839ab8
   port: 41275
   server: xiaozhu1.kkieo555.cn
@@ -405,14 +405,14 @@ proxies:
   skip-cert-verify: true
   sni: green2.cdntencentmusic.com
   type: trojan
-- name: United Kingdom_None_trojan_1132
+- name: China_None_trojan_1132
   password: 41a4f30b-10d2-43e1-8e7f-0605eb63b064
   port: 41275
   server: xiaozhu1.kkieo555.cn
   skip-cert-verify: true
   sni: xiaozhu1.kkieo555.cn
   type: trojan
-- name: United Kingdom_None_trojan_1133
+- name: China_None_trojan_1133
   password: ad8c3eed-70b9-4a22-94ca-b16e888290da
   port: 41275
   server: xiaozhu1.kkieo555.cn
@@ -455,14 +455,14 @@ proxies:
   skip-cert-verify: true
   sni: torontorm1.686911.xyz
   type: trojan
-- name: United Kingdom_None_trojan_1138
+- name: China_None_trojan_1138
   password: 572685d1-c0d9-47e6-9764-05b7ada3745f
   port: 41275
   server: xiaozhu1.kkieo555.cn
   skip-cert-verify: true
   sni: xiaozhu1.kkieo555.cn
   type: trojan
-- name: United Kingdom_None_trojan_1139
+- name: China_None_trojan_1139
   password: 1face1ff-4075-4e3c-823d-dafd3430140b
   port: 41275
   server: xiaozhu1.kkieo555.cn
@@ -718,26 +718,26 @@ proxy-groups:
   - India_None_vmess_1117
   - Hong Kong_Tsim Sha Tsui_trojan_1118
   - Hong Kong_Tsim Sha Tsui_trojan_1119
-  - United States_San Francisco_trojan_1120
+  - None_None_trojan_1120
   - None_None_trojan_1121
   - None_None_trojan_1122
-  - None_None_trojan_1123
+  - United States_None_trojan_1123
   - United States_None_trojan_1124
-  - United States_None_trojan_1125
-  - None_None_trojan_1126
+  - None_None_trojan_1125
+  - United States_None_trojan_1126
   - None_None_trojan_1127
-  - None_None_trojan_1128
-  - United Kingdom_None_trojan_1129
-  - United Kingdom_None_trojan_1130
+  - United States_None_trojan_1128
+  - China_None_trojan_1129
+  - China_None_trojan_1130
   - None_None_trojan_1131
-  - United Kingdom_None_trojan_1132
-  - United Kingdom_None_trojan_1133
+  - China_None_trojan_1132
+  - China_None_trojan_1133
   - Seychelles_None_vmess_1134
   - China_None_vmess_1135
   - Germany_Frankfurt am Main_trojan_1136
   - Canada_Toronto_trojan_1137
-  - United Kingdom_None_trojan_1138
-  - United Kingdom_None_trojan_1139
+  - China_None_trojan_1138
+  - China_None_trojan_1139
   - China_None_vmess_1140
   - Singapore_None_vmess_1141
   - None_None_trojan_1142
@@ -803,26 +803,26 @@ proxy-groups:
   - India_None_vmess_1117
   - Hong Kong_Tsim Sha Tsui_trojan_1118
   - Hong Kong_Tsim Sha Tsui_trojan_1119
-  - United States_San Francisco_trojan_1120
+  - None_None_trojan_1120
   - None_None_trojan_1121
   - None_None_trojan_1122
-  - None_None_trojan_1123
+  - United States_None_trojan_1123
   - United States_None_trojan_1124
-  - United States_None_trojan_1125
-  - None_None_trojan_1126
+  - None_None_trojan_1125
+  - United States_None_trojan_1126
   - None_None_trojan_1127
-  - None_None_trojan_1128
-  - United Kingdom_None_trojan_1129
-  - United Kingdom_None_trojan_1130
+  - United States_None_trojan_1128
+  - China_None_trojan_1129
+  - China_None_trojan_1130
   - None_None_trojan_1131
-  - United Kingdom_None_trojan_1132
-  - United Kingdom_None_trojan_1133
+  - China_None_trojan_1132
+  - China_None_trojan_1133
   - Seychelles_None_vmess_1134
   - China_None_vmess_1135
   - Germany_Frankfurt am Main_trojan_1136
   - Canada_Toronto_trojan_1137
-  - United Kingdom_None_trojan_1138
-  - United Kingdom_None_trojan_1139
+  - China_None_trojan_1138
+  - China_None_trojan_1139
   - China_None_vmess_1140
   - Singapore_None_vmess_1141
   - None_None_trojan_1142
