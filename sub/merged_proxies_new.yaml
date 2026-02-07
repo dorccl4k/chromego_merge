@@ -579,7 +579,7 @@ proxies:
     path: /
 - alterId: 2
   cipher: auto
-  name: China_None_vmess_1146
+  name: Iran_Tehran_vmess_1146
   network: tcp
   port: '30809'
   server: v9.hdacd.com
@@ -588,7 +588,7 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 2
   cipher: auto
-  name: China_None_vmess_1147
+  name: Iran_Tehran_vmess_1147
   network: tcp
   port: '30808'
   server: v8.hdacd.com
@@ -843,8 +843,8 @@ proxy-groups:
   - China_None_vmess_1143
   - China_None_vmess_1144
   - Hong Kong_Central_vmess_1145
-  - China_None_vmess_1146
-  - China_None_vmess_1147
+  - Iran_Tehran_vmess_1146
+  - Iran_Tehran_vmess_1147
   - United States_None_ss_1148
   - Hong Kong_North Point_vmess_1149
   - Japan_Tokyo_trojan_1150
@@ -938,8 +938,8 @@ proxy-groups:
   - China_None_vmess_1143
   - China_None_vmess_1144
   - Hong Kong_Central_vmess_1145
-  - China_None_vmess_1146
-  - China_None_vmess_1147
+  - Iran_Tehran_vmess_1146
+  - Iran_Tehran_vmess_1147
   - United States_None_ss_1148
   - Hong Kong_North Point_vmess_1149
   - Japan_Tokyo_trojan_1150
