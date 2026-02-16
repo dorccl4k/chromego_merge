@@ -308,7 +308,7 @@ proxies:
   tls: false
   type: vmess
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- name: United States_San Francisco_trojan_1118
+- name: None_None_trojan_1118
   network: ws
   password: f0defe70-4c27-4d66-bada-0240e4f49880
   port: 2087
@@ -320,7 +320,7 @@ proxies:
     headers:
       Host: 17710527846715.682637.xyz
     path: '%2Fahyrtuyjykl'
-- name: United States_San Francisco_trojan_1119
+- name: None_None_trojan_1119
   network: ws
   password: f0defe70-4c27-4d66-bada-0240e4f49880
   port: 2087
@@ -332,7 +332,7 @@ proxies:
     headers:
       Host: 17710527849019.682637.xyz
     path: '%2Fahyrtuyjykl'
-- name: United States_San Francisco_trojan_1120
+- name: None_None_trojan_1120
   network: ws
   password: f0defe70-4c27-4d66-bada-0240e4f49880
   port: 2087
@@ -560,7 +560,7 @@ proxies:
     headers:
       Host: 17710527842145.206352.xyz
     path: '%2Fagraeabtegrrh'
-- name: None_None_trojan_1139
+- name: United States_None_trojan_1139
   network: ws
   password: f0defe70-4c27-4d66-bada-0240e4f49880
   port: 8443
@@ -596,7 +596,7 @@ proxies:
     headers:
       Host: 17710527842333.206356.xyz
     path: '%2Fdmusicmuaawe'
-- name: United States_None_trojan_1142
+- name: None_None_trojan_1142
   network: ws
   password: f0defe70-4c27-4d66-bada-0240e4f49880
   port: 8443
@@ -608,7 +608,7 @@ proxies:
     headers:
       Host: 17710527848585.206352.xyz
     path: '%2Fagraeabtegrrh'
-- name: United States_None_trojan_1143
+- name: None_None_trojan_1143
   network: ws
   password: f0defe70-4c27-4d66-bada-0240e4f49880
   port: 2053
@@ -620,7 +620,7 @@ proxies:
     headers:
       Host: 17710527847573.206353.xyz
     path: '%2Fagrbniuh'
-- name: None_None_trojan_1144
+- name: United States_None_trojan_1144
   network: ws
   password: f0defe70-4c27-4d66-bada-0240e4f49880
   port: 8443
@@ -667,7 +667,7 @@ proxies:
     path: /NASNET/cdn?ed=2560
 - alterId: 2
   cipher: auto
-  name: Iran_Tehran_vmess_1148
+  name: China_None_vmess_1148
   network: tcp
   port: '30833'
   server: v33.hdacd.com
@@ -676,7 +676,7 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 2
   cipher: auto
-  name: Iran_Tehran_vmess_1149
+  name: China_None_vmess_1149
   network: tcp
   port: '30806'
   server: v6.hdacd.com
@@ -685,7 +685,7 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 2
   cipher: auto
-  name: Iran_Tehran_vmess_1150
+  name: China_None_vmess_1150
   network: tcp
   port: '30809'
   server: v9.hdacd.com
@@ -851,9 +851,9 @@ proxy-groups:
   - Hong Kong_None_vmess_1115
   - China_None_vmess_1116
   - United Kingdom_None_vmess_1117
-  - United States_San Francisco_trojan_1118
-  - United States_San Francisco_trojan_1119
-  - United States_San Francisco_trojan_1120
+  - None_None_trojan_1118
+  - None_None_trojan_1119
+  - None_None_trojan_1120
   - United States_San Francisco_trojan_1121
   - United States_San Francisco_trojan_1122
   - None_None_trojan_1123
@@ -872,18 +872,18 @@ proxy-groups:
   - None_None_trojan_1136
   - None_None_trojan_1137
   - None_None_trojan_1138
-  - None_None_trojan_1139
+  - United States_None_trojan_1139
   - United States_None_trojan_1140
   - United States_None_trojan_1141
-  - United States_None_trojan_1142
-  - United States_None_trojan_1143
-  - None_None_trojan_1144
+  - None_None_trojan_1142
+  - None_None_trojan_1143
+  - United States_None_trojan_1144
   - None_None_trojan_1145
   - Hong Kong_Sai Wan_trojan_1146
   - None_None_vmess_1147
-  - Iran_Tehran_vmess_1148
-  - Iran_Tehran_vmess_1149
-  - Iran_Tehran_vmess_1150
+  - China_None_vmess_1148
+  - China_None_vmess_1149
+  - China_None_vmess_1150
   - United States_None_ss_1151
   - Hong Kong_Central_vmess_1152
   - Japan_Tokyo_trojan_1153
@@ -937,9 +937,9 @@ proxy-groups:
   - Hong Kong_None_vmess_1115
   - China_None_vmess_1116
   - United Kingdom_None_vmess_1117
-  - United States_San Francisco_trojan_1118
-  - United States_San Francisco_trojan_1119
-  - United States_San Francisco_trojan_1120
+  - None_None_trojan_1118
+  - None_None_trojan_1119
+  - None_None_trojan_1120
   - United States_San Francisco_trojan_1121
   - United States_San Francisco_trojan_1122
   - None_None_trojan_1123
@@ -958,18 +958,18 @@ proxy-groups:
   - None_None_trojan_1136
   - None_None_trojan_1137
   - None_None_trojan_1138
-  - None_None_trojan_1139
+  - United States_None_trojan_1139
   - United States_None_trojan_1140
   - United States_None_trojan_1141
-  - United States_None_trojan_1142
-  - United States_None_trojan_1143
-  - None_None_trojan_1144
+  - None_None_trojan_1142
+  - None_None_trojan_1143
+  - United States_None_trojan_1144
   - None_None_trojan_1145
   - Hong Kong_Sai Wan_trojan_1146
   - None_None_vmess_1147
-  - Iran_Tehran_vmess_1148
-  - Iran_Tehran_vmess_1149
-  - Iran_Tehran_vmess_1150
+  - China_None_vmess_1148
+  - China_None_vmess_1149
+  - China_None_vmess_1150
   - United States_None_ss_1151
   - Hong Kong_Central_vmess_1152
   - Japan_Tokyo_trojan_1153
