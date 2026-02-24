@@ -292,7 +292,7 @@ proxies:
   tls: false
   type: vmess
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- name: None_None_trojan_1113
+- name: United States_San Francisco_trojan_1113
   network: ws
   password: 92544946-dea2-4cd9-bd5b-32be565a5a62
   port: 2087
@@ -304,7 +304,7 @@ proxies:
     headers:
       Host: 17718944722777.682637.xyz
     path: '%2Fahyrtuyjykl'
-- name: None_None_trojan_1114
+- name: United States_San Francisco_trojan_1114
   network: ws
   password: 92544946-dea2-4cd9-bd5b-32be565a5a62
   port: 2087
@@ -328,7 +328,7 @@ proxies:
     headers:
       Host: 17718944729339.682637.xyz
     path: '%2Fahyrtuyjykl'
-- name: None_None_trojan_1116
+- name: United States_San Francisco_trojan_1116
   network: ws
   password: 92544946-dea2-4cd9-bd5b-32be565a5a62
   port: 2087
@@ -376,7 +376,7 @@ proxies:
     headers:
       Host: 17718944727836.682637.xyz
     path: '%2Fahyrtuyjykl'
-- name: United States_San Francisco_trojan_1120
+- name: None_None_trojan_1120
   network: ws
   password: 92544946-dea2-4cd9-bd5b-32be565a5a62
   port: 2053
@@ -568,7 +568,7 @@ proxies:
     headers:
       Host: 17718944728768.206355.xyz
     path: '%2Fvideomuaawe'
-- name: None_None_trojan_1136
+- name: United States_None_trojan_1136
   network: ws
   password: 92544946-dea2-4cd9-bd5b-32be565a5a62
   port: 2083
@@ -1042,14 +1042,14 @@ proxy-groups:
   - Unknown_vmess_1110
   - Hong Kong_Hong Kong_vmess_1111
   - United Kingdom_None_vmess_1112
-  - None_None_trojan_1113
-  - None_None_trojan_1114
+  - United States_San Francisco_trojan_1113
+  - United States_San Francisco_trojan_1114
   - United States_San Francisco_trojan_1115
-  - None_None_trojan_1116
+  - United States_San Francisco_trojan_1116
   - United States_San Francisco_trojan_1117
   - None_None_trojan_1118
   - None_None_trojan_1119
-  - United States_San Francisco_trojan_1120
+  - None_None_trojan_1120
   - None_None_trojan_1121
   - None_None_trojan_1122
   - None_None_trojan_1123
@@ -1065,7 +1065,7 @@ proxy-groups:
   - None_None_trojan_1133
   - None_None_trojan_1134
   - United States_None_trojan_1135
-  - None_None_trojan_1136
+  - United States_None_trojan_1136
   - None_None_trojan_1137
   - None_None_trojan_1138
   - None_None_trojan_1139
@@ -1148,14 +1148,14 @@ proxy-groups:
   - Unknown_vmess_1110
   - Hong Kong_Hong Kong_vmess_1111
   - United Kingdom_None_vmess_1112
-  - None_None_trojan_1113
-  - None_None_trojan_1114
+  - United States_San Francisco_trojan_1113
+  - United States_San Francisco_trojan_1114
   - United States_San Francisco_trojan_1115
-  - None_None_trojan_1116
+  - United States_San Francisco_trojan_1116
   - United States_San Francisco_trojan_1117
   - None_None_trojan_1118
   - None_None_trojan_1119
-  - United States_San Francisco_trojan_1120
+  - None_None_trojan_1120
   - None_None_trojan_1121
   - None_None_trojan_1122
   - None_None_trojan_1123
@@ -1171,7 +1171,7 @@ proxy-groups:
   - None_None_trojan_1133
   - None_None_trojan_1134
   - United States_None_trojan_1135
-  - None_None_trojan_1136
+  - United States_None_trojan_1136
   - None_None_trojan_1137
   - None_None_trojan_1138
   - None_None_trojan_1139
